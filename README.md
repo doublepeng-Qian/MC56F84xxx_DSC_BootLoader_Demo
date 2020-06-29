@@ -1,0 +1,2 @@
+# MC56F84xxx_DSC_BootLoader_Demo
+这是一个Freescale官网的基于UART的Bootlaoder程序，非常经典，配套说明文档中英文，具有参考意义。
